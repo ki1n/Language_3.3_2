@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Language_3.3_2</string>
+    <string name="textBt_start">Start</string>
+    <string name="hello">Hello</string>
+    <string-array name="language">
+        <item>Eng</item>
+        <item>Rus</item>
+    </string-array>
+</resources>
