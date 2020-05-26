@@ -1,9 +1,14 @@
 <resources>
     <string name="app_name">Language_3.3_2</string>
-    <string name="textBt_start">Старт</string>
+    <string name="textBt_start">Ok</string>
     <string name="hello">Привет</string>
     <string-array name="language">
         <item>Английский</item>
         <item>Русский</item>
+    </string-array>
+    <string-array name="сolorsArr">
+        <item>Чёрный</item>
+        <item>Зелёный</item>
+        <item>Синий</item>
     </string-array>
 </resources>

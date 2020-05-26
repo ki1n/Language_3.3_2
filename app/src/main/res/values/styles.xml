@@ -8,4 +8,25 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="AppThemeGreen" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/colorWindowBackgroundGreen</item>
+        <item name="colorPrimary">@color/colorPrimaryGreen</item>
+        <item name="colorButtonNormal">@color/colorPrimaryDarkGreen</item>
+        <item name="android:textColor">@color/colorTextGreen</item>
+    </style>
+
+    <style name="AppThemeBlack" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/colorWindowBackgroundBlack</item>
+        <item name="colorPrimary">@color/colorPrimaryBlack</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="colorButtonNormal">@color/colorAccentBlack</item>
+    </style>
+
+    <style name="AppThemeBlue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/colorWindowBackgroundBlue</item>
+        <item name="colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="android:textColor">@color/colorTextBlue</item>
+        <item name="colorButtonNormal">@color/colorAccentBlue</item>
+    </style>
+
 </resources>
