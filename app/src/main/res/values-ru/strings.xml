@@ -6,9 +6,16 @@
         <item>Английский</item>
         <item>Русский</item>
     </string-array>
+
     <string-array name="сolorsArr">
         <item>Чёрный</item>
         <item>Зелёный</item>
         <item>Синий</item>
+    </string-array>
+
+    <string-array name="marginLayoutArr">
+        <item>крупная</item>
+        <item>средняя</item>
+        <item>мелкая</item>
     </string-array>
 </resources>

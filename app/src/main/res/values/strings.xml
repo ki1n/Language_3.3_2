@@ -11,4 +11,10 @@
         <item>green</item>
         <item>blue</item>
     </string-array>
+
+    <string-array name="marginLayoutArr">
+        <item>large</item>
+        <item>average</item>
+        <item>small</item>
+    </string-array>
 </resources>

@@ -29,4 +29,16 @@
         <item name="colorButtonNormal">@color/colorAccentBlue</item>
     </style>
 
+    <style name="Margin_1" parent="AppTheme">
+        <item name="android:layout_margin">1dp</item>
+    </style>
+
+    <style name="Margin_3" parent="AppTheme">
+        <item name="android:layout_margin">3dp</item>
+    </style>
+
+    <style name="Margin_10" parent="AppTheme">
+        <item name="android:layout_margin">10dp</item>
+    </style>
+
 </resources>
